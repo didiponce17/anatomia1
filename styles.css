@@ -249,11 +249,107 @@ main { display: flex; flex: 1; max-width: 1200px; width: 100%; margin: 0 auto; p
 /* === Footer === */
 footer { text-align: center; padding: 1rem; color: #a0aec0; font-size: .8rem; }
 
-/* === Responsive === */
+/* === Hamburger button & sidebar header (hidden on desktop) === */
+.btn-menu {
+  display: none;
+  position: absolute; top: 1rem; left: 1rem;
+  background: rgba(255,255,255,.2); color: white;
+  border: 1px solid rgba(255,255,255,.4); border-radius: 6px;
+  padding: .4rem .7rem; font-size: .85rem; font-weight: 600; cursor: pointer;
+}
+.btn-menu:hover { background: rgba(255,255,255,.3); }
+
+.sidebar-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: .8rem; padding-bottom: .5rem; border-bottom: 2px solid #e2e8f0; }
+.sidebar-header h2 { font-size: 1.1rem; color: #2b6cb0; border: none; margin: 0; padding: 0; }
+.btn-close-sidebar { display: none; background: transparent; border: none; font-size: 1.5rem; cursor: pointer; color: #4a5568; padding: 0 .3rem; }
+
+#sidebar-overlay {
+  display: none; position: fixed; inset: 0; background: rgba(0,0,0,.5); z-index: 998;
+}
+#sidebar-overlay.open { display: block; }
+
+/* Reset sidebar h2 when inside sidebar-header */
+#sidebar h2 { /* override original */ }
+
+/* === Responsive: tablets y móviles (max 768px) === */
 @media (max-width: 768px) {
-  main { flex-direction: column; }
-  #sidebar { width: 100%; position: static; max-height: none; }
-  .pareo-container { flex-direction: column; }
-  header h1 { font-size: 1.4rem; }
-  .tema-header-row { flex-direction: column; align-items: stretch; }
+  /* Header más compacto */
+  header { padding: 1rem .8rem; position: relative; }
+  header h1 { font-size: 1.3rem; }
+  .subtitle { font-size: .8rem; margin-bottom: .6rem; }
+
+  /* Mostrar botón hamburguesa */
+  .btn-menu { display: inline-block; }
+
+  /* Botones de modo más compactos */
+  .mode-btn { padding: .45rem .8rem; font-size: .8rem; }
+
+  /* Layout principal: una sola columna, contenido primero */
+  main { flex-direction: column; padding: .6rem; gap: .6rem; }
+
+  /* Sidebar se convierte en drawer lateral */
+  #sidebar {
+    position: fixed; top: 0; left: 0; bottom: 0;
+    width: 80%; max-width: 320px; max-height: none;
+    z-index: 999; border-radius: 0;
+    transform: translateX(-100%);
+    transition: transform .25s ease;
+    overflow-y: auto;
+    box-shadow: 2px 0 12px rgba(0,0,0,.2);
+  }
+  #sidebar.open { transform: translateX(0); }
+  .btn-close-sidebar { display: inline-block; }
+
+  /* Contenido ocupa todo el ancho */
+  #content { width: 100%; }
+  #estudio-view, #repaso-view, #galeria-view, #welcome { padding: 1rem; }
+
+  /* Header de tema apilado */
+  .tema-header-row { flex-direction: column; align-items: stretch; gap: .6rem; }
+  .tema-actions { justify-content: space-between; }
+  .btn-primary, .btn-secondary { padding: .6rem 1rem; font-size: .9rem; }
+
+  /* Pareo en columna */
+  .pareo-container { flex-direction: column; gap: .5rem; }
+  .pareo-column { min-width: 0; }
+
+  /* Opciones y botones VF más grandes para tocar con el dedo */
+  .opcion-item { padding: .8rem 1rem; font-size: .95rem; }
+  .vf-btn { padding: .9rem 1rem; font-size: 1rem; }
+  .btn-verificar { padding: .7rem 1.4rem; font-size: 1rem; width: 100%; }
+  .breve-input { font-size: 1rem; min-height: 80px; }
+
+  /* Repaso: nav buttons grandes y fáciles de tocar */
+  #repaso-nav { flex-wrap: wrap; gap: .5rem; }
+  #repaso-nav button { flex: 1; min-width: 110px; padding: .8rem 1rem; font-size: .95rem; }
+  #repaso-counter { width: 100%; text-align: center; order: -1; margin-bottom: .3rem; }
+
+  /* Galería: grid de 2 columnas en móvil */
+  #galeria-grid { grid-template-columns: repeat(2, 1fr); gap: .6rem; }
+  .galeria-item img { height: 130px; }
+  .galeria-item figcaption { padding: .4rem .5rem; font-size: .72rem; }
+
+  /* Lightbox a pantalla completa */
+  .lb-inner { max-width: 95vw; max-height: 95vh; padding: .5rem; }
+  .lb-img { max-width: 92vw; max-height: 75vh; }
+  .lb-caption { font-size: .8rem; }
+
+  /* Pregunta cards un poco más compactas */
+  .pregunta-card { padding: 1rem .8rem; }
+  .pregunta-text { font-size: .95rem; }
+
+  /* Resumen final */
+  .resumen-final { padding: 1.2rem .8rem; }
+  .resumen-actions { flex-direction: column; }
+  .resumen-actions button { width: 100%; }
+}
+
+/* === Responsive: pantallas muy pequeñas (max 360px, ej. iPhone SE) === */
+@media (max-width: 360px) {
+  header h1 { font-size: 1.15rem; }
+  .btn-menu { font-size: .75rem; padding: .35rem .55rem; }
+  #mode-nav { gap: .3rem; }
+  .mode-btn { padding: .4rem .6rem; font-size: .75rem; }
+  #galeria-grid { grid-template-columns: 1fr; }
+  .galeria-item img { height: 180px; }
 }

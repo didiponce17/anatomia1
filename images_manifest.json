@@ -1,0 +1,2287 @@
+{
+  "Clase 1 (Introducción I).pdf": {
+    "slug": "clase_1_introduccion_i",
+    "images": [
+      {
+        "src": "images/clase_1_introduccion_i/p002_0.jpeg",
+        "page": 2,
+        "w": 1200,
+        "h": 1297,
+        "text_excerpt": "Definición Anatomía •Ciencia de las estructuras corporales y las relaciones entre ellas. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p003_0.jpeg",
+        "page": 3,
+        "w": 500,
+        "h": 252,
+        "text_excerpt": "Embriología •Estudio de las estructuras que se desarrollan desde el momento de la fertilización (el huevo) hasta la octava semana, en el útero. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p005_0.jpeg",
+        "page": 5,
+        "w": 550,
+        "h": 400,
+        "text_excerpt": "Histología (tejido) •Estudio de las estructuras microscópicas de los tejidos. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p006_0.jpeg",
+        "page": 6,
+        "w": 638,
+        "h": 479,
+        "text_excerpt": "Anatomía de superficie • Estudio de las referencias anatómicas en la superficie corporal a través de la inspección y la palpación, percusión y auscultación. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p007_0.jpeg",
+        "page": 7,
+        "w": 600,
+        "h": 400,
+        "text_excerpt": "Anatomía macroscópica •Estudio de las estructuras que pueden analizarse sin la utilización de un microscopio. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p008_0.jpeg",
+        "page": 8,
+        "w": 700,
+        "h": 550,
+        "text_excerpt": "Anatomía de aparatos y sistemas • Estudio de la estructura de aparatos sistemas específicos como el sistema nervioso, cardiovascular, urinario, endocrino o el respiratorio. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p009_0.jpeg",
+        "page": 9,
+        "w": 1440,
+        "h": 835,
+        "text_excerpt": "Anatomía regional •Estudio de las regiones especificas del cuerpo como la cabeza, el tórax y abdomen. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p010_0.jpeg",
+        "page": 10,
+        "w": 350,
+        "h": 325,
+        "text_excerpt": "Anatomía Radiográfica •Las estructuras corporales que pueden verse a través de rayos X. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p011_0.jpeg",
+        "page": 11,
+        "w": 850,
+        "h": 433,
+        "text_excerpt": "Anatomía Patológica •Estudio de los cambios estructurales (tanto macroscópicos como microscópicos) asociados con la enfermedad (patología). • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p012_0.jpeg",
+        "page": 12,
+        "w": 476,
+        "h": 358,
+        "text_excerpt": "Tejidos •Es un grupo de células similares, que suelen tener un origen embrionario común, y funcionan en conjunto para realizar una actividades especializadas. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p016_0.jpeg",
+        "page": 16,
+        "w": 880,
+        "h": 485,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p019_0.jpeg",
+        "page": 19,
+        "w": 1138,
+        "h": 401,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p020_0.jpeg",
+        "page": 20,
+        "w": 1138,
+        "h": 392,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p021_0.jpeg",
+        "page": 21,
+        "w": 1141,
+        "h": 396,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p022_0.jpeg",
+        "page": 22,
+        "w": 1182,
+        "h": 776,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p023_0.jpeg",
+        "page": 23,
+        "w": 1143,
+        "h": 521,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p024_0.jpeg",
+        "page": 24,
+        "w": 1142,
+        "h": 473,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p025_0.jpeg",
+        "page": 25,
+        "w": 1023,
+        "h": 350,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p030_0.jpeg",
+        "page": 30,
+        "w": 1038,
+        "h": 361,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p031_0.jpeg",
+        "page": 31,
+        "w": 1039,
+        "h": 348,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p032_0.jpeg",
+        "page": 32,
+        "w": 912,
+        "h": 399,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p033_0.jpeg",
+        "page": 33,
+        "w": 1051,
+        "h": 337,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p034_0.jpeg",
+        "page": 34,
+        "w": 1038,
+        "h": 344,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p035_0.jpeg",
+        "page": 35,
+        "w": 1054,
+        "h": 342,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p036_0.jpeg",
+        "page": 36,
+        "w": 1122,
+        "h": 356,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p037_0.jpeg",
+        "page": 37,
+        "w": 1091,
+        "h": 428,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p038_0.jpeg",
+        "page": 38,
+        "w": 1090,
+        "h": 355,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p039_0.jpeg",
+        "page": 39,
+        "w": 1085,
+        "h": 424,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p040_0.jpeg",
+        "page": 40,
+        "w": 1115,
+        "h": 405,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p042_0.jpeg",
+        "page": 42,
+        "w": 901,
+        "h": 427,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p043_0.jpeg",
+        "page": 43,
+        "w": 956,
+        "h": 429,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p044_0.jpeg",
+        "page": 44,
+        "w": 866,
+        "h": 536,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p046_0.jpeg",
+        "page": 46,
+        "w": 1137,
+        "h": 316,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p047_0.jpeg",
+        "page": 47,
+        "w": 741,
+        "h": 546,
+        "text_excerpt": "Anatomía regional (topográfica) • Considera la organización del cuerpo humano en función de sus partes o segmentos principales : un cuerpo principal, que se compone de la cabeza, el cuello y el tronco (subdividido en tórax, abdomen, dorso y pelvis/periné), y las parejas de miembros superiores e infe"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p050_0.jpeg",
+        "page": 50,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p051_0.jpeg",
+        "page": 51,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p056_0.jpeg",
+        "page": 56,
+        "w": 339,
+        "h": 461,
+        "text_excerpt": "Ingle •Área situada en la parte frontal de la superficie del cuerpo, delimitada por un pliegue a cada lado, donde se une al el muslo al tronco. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p057_0.jpeg",
+        "page": 57,
+        "w": 1256,
+        "h": 1048,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p060_0.jpeg",
+        "page": 60,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p062_0.png",
+        "page": 62,
+        "w": 233,
+        "h": 216,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p065_0.jpeg",
+        "page": 65,
+        "w": 1400,
+        "h": 799,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p068_0.jpeg",
+        "page": 68,
+        "w": 1400,
+        "h": 811,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p070_0.jpeg",
+        "page": 70,
+        "w": 1399,
+        "h": 748,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p073_0.jpeg",
+        "page": 73,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p075_0.jpeg",
+        "page": 75,
+        "w": 1399,
+        "h": 872,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p078_0.jpeg",
+        "page": 78,
+        "w": 542,
+        "h": 281,
+        "text_excerpt": "Cavidades corporales"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p078_1.jpeg",
+        "page": 78,
+        "w": 1080,
+        "h": 742,
+        "text_excerpt": "Cavidades corporales"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p079_0.jpeg",
+        "page": 79,
+        "w": 728,
+        "h": 546,
+        "text_excerpt": "Músculo diafragmático • El diafragma es un músculo que separa la cavidad torácica de la abdomino-pélvica. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p080_0.jpeg",
+        "page": 80,
+        "w": 1400,
+        "h": 626,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p082_0.jpeg",
+        "page": 82,
+        "w": 1399,
+        "h": 1004,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p083_0.jpeg",
+        "page": 83,
+        "w": 1399,
+        "h": 939,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p085_0.jpeg",
+        "page": 85,
+        "w": 483,
+        "h": 292,
+        "text_excerpt": "La membrana serosa •Esta formada por: 1. Hoja parietal: Que reviste las paredes de las cavidades. 2. Hoja visceral: Que recubre y adhiere alas vísceras contenida en estas. • (Robinson Rodríguez, 5ta edición. 2022). • (Tortora, Derrickon, 13 edición)"
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p088_0.jpeg",
+        "page": 88,
+        "w": 1242,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p089_0.jpeg",
+        "page": 89,
+        "w": 1399,
+        "h": 756,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p090_0.jpeg",
+        "page": 90,
+        "w": 963,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_i/p092_0.jpeg",
+        "page": 92,
+        "w": 1242,
+        "h": 1047,
+        "text_excerpt": ""
+      }
+    ]
+  },
+  "Clase 1 (Introducción II).pdf": {
+    "slug": "clase_1_introduccion_ii",
+    "images": [
+      {
+        "src": "images/clase_1_introduccion_ii/p006_1.jpeg",
+        "page": 6,
+        "w": 771,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p007_1.jpeg",
+        "page": 7,
+        "w": 720,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p027_1.jpeg",
+        "page": 27,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p031_1.jpeg",
+        "page": 31,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p042_1.jpeg",
+        "page": 42,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p043_1.jpeg",
+        "page": 43,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p044_1.jpeg",
+        "page": 44,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_ii/p054_1.jpeg",
+        "page": 54,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      }
+    ]
+  },
+  "Clase 1 (Introducción III).pdf": {
+    "slug": "clase_1_introduccion_iii",
+    "images": [
+      {
+        "src": "images/clase_1_introduccion_iii/p002_1.jpeg",
+        "page": 2,
+        "w": 888,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p003_1.jpeg",
+        "page": 3,
+        "w": 953,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p004_1.jpeg",
+        "page": 4,
+        "w": 906,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p005_1.jpeg",
+        "page": 5,
+        "w": 950,
+        "h": 1091,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p006_1.jpeg",
+        "page": 6,
+        "w": 874,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p007_1.jpeg",
+        "page": 7,
+        "w": 1056,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p008_1.jpeg",
+        "page": 8,
+        "w": 957,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p009_1.jpeg",
+        "page": 9,
+        "w": 650,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p010_1.jpeg",
+        "page": 10,
+        "w": 1004,
+        "h": 1140,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p011_1.jpeg",
+        "page": 11,
+        "w": 782,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p012_1.jpeg",
+        "page": 12,
+        "w": 1016,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p013_1.jpeg",
+        "page": 13,
+        "w": 1185,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p014_1.jpeg",
+        "page": 14,
+        "w": 1321,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p015_1.jpeg",
+        "page": 15,
+        "w": 1082,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p016_1.jpeg",
+        "page": 16,
+        "w": 700,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p017_1.jpeg",
+        "page": 17,
+        "w": 1146,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p018_1.jpeg",
+        "page": 18,
+        "w": 1204,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p019_1.jpeg",
+        "page": 19,
+        "w": 1399,
+        "h": 751,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p020_1.jpeg",
+        "page": 20,
+        "w": 1399,
+        "h": 642,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p021_1.jpeg",
+        "page": 21,
+        "w": 1399,
+        "h": 890,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p022_1.jpeg",
+        "page": 22,
+        "w": 1399,
+        "h": 836,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_1_introduccion_iii/p023_1.jpeg",
+        "page": 23,
+        "w": 876,
+        "h": 1024,
+        "text_excerpt": ""
+      }
+    ]
+  },
+  "Clase 2 (Introducción II).pdf": {
+    "slug": "clase_2_introduccion_ii",
+    "images": [
+      {
+        "src": "images/clase_2_introduccion_ii/p006_1.jpeg",
+        "page": 6,
+        "w": 771,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p007_1.jpeg",
+        "page": 7,
+        "w": 720,
+        "h": 1047,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p027_1.jpeg",
+        "page": 27,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p031_1.jpeg",
+        "page": 31,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p042_1.jpeg",
+        "page": 42,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p043_1.jpeg",
+        "page": 43,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p044_1.jpeg",
+        "page": 44,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_ii/p054_1.jpeg",
+        "page": 54,
+        "w": 1280,
+        "h": 720,
+        "text_excerpt": ""
+      }
+    ]
+  },
+  "Clase 2 (Introducción III).pdf": {
+    "slug": "clase_2_introduccion_iii",
+    "images": [
+      {
+        "src": "images/clase_2_introduccion_iii/p002_1.jpeg",
+        "page": 2,
+        "w": 888,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p003_1.jpeg",
+        "page": 3,
+        "w": 953,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p004_1.jpeg",
+        "page": 4,
+        "w": 906,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p005_1.jpeg",
+        "page": 5,
+        "w": 950,
+        "h": 1091,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p006_1.jpeg",
+        "page": 6,
+        "w": 874,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p007_1.jpeg",
+        "page": 7,
+        "w": 1056,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p008_1.jpeg",
+        "page": 8,
+        "w": 957,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p009_1.jpeg",
+        "page": 9,
+        "w": 650,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p010_1.jpeg",
+        "page": 10,
+        "w": 1004,
+        "h": 1140,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p011_1.jpeg",
+        "page": 11,
+        "w": 782,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p012_1.jpeg",
+        "page": 12,
+        "w": 1016,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p013_1.jpeg",
+        "page": 13,
+        "w": 1185,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p014_1.jpeg",
+        "page": 14,
+        "w": 1321,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p015_1.jpeg",
+        "page": 15,
+        "w": 1082,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p016_1.jpeg",
+        "page": 16,
+        "w": 700,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p017_1.jpeg",
+        "page": 17,
+        "w": 1146,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p018_1.jpeg",
+        "page": 18,
+        "w": 1204,
+        "h": 1024,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p019_1.jpeg",
+        "page": 19,
+        "w": 1399,
+        "h": 751,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p020_1.jpeg",
+        "page": 20,
+        "w": 1399,
+        "h": 642,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p021_1.jpeg",
+        "page": 21,
+        "w": 1399,
+        "h": 890,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p022_1.jpeg",
+        "page": 22,
+        "w": 1399,
+        "h": 836,
+        "text_excerpt": ""
+      },
+      {
+        "src": "images/clase_2_introduccion_iii/p023_1.jpeg",
+        "page": 23,
+        "w": 876,
+        "h": 1024,
+        "text_excerpt": ""
+      }
+    ]
+  },
+  "Clase 2 (Articulaciones).pdf": {
+    "slug": "clase_2_articulaciones",
+    "images": [
+      {
+        "src": "images/clase_2_articulaciones/p006_1.png",
+        "page": 6,
+        "w": 1350,
+        "h": 842,
+        "text_excerpt": "6"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p010_1.png",
+        "page": 10,
+        "w": 1316,
+        "h": 358,
+        "text_excerpt": "10"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p013_1.jpeg",
+        "page": 13,
+        "w": 1399,
+        "h": 967,
+        "text_excerpt": "13"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p014_1.jpeg",
+        "page": 14,
+        "w": 1332,
+        "h": 1040,
+        "text_excerpt": "14"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p015_1.jpeg",
+        "page": 15,
+        "w": 1360,
+        "h": 1190,
+        "text_excerpt": "15"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p016_1.png",
+        "page": 16,
+        "w": 1312,
+        "h": 314,
+        "text_excerpt": "16"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p018_1.jpeg",
+        "page": 18,
+        "w": 1292,
+        "h": 1047,
+        "text_excerpt": "18"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p019_1.jpeg",
+        "page": 19,
+        "w": 1458,
+        "h": 1152,
+        "text_excerpt": "19"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p020_1.png",
+        "page": 20,
+        "w": 1344,
+        "h": 298,
+        "text_excerpt": "20"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p022_1.jpeg",
+        "page": 22,
+        "w": 1248,
+        "h": 817,
+        "text_excerpt": "22"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p022_2.jpeg",
+        "page": 22,
+        "w": 880,
+        "h": 764,
+        "text_excerpt": "22"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p023_1.jpeg",
+        "page": 23,
+        "w": 1322,
+        "h": 1047,
+        "text_excerpt": "23"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p024_1.png",
+        "page": 24,
+        "w": 1292,
+        "h": 168,
+        "text_excerpt": "24"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p028_1.jpeg",
+        "page": 28,
+        "w": 1399,
+        "h": 908,
+        "text_excerpt": "28"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p029_1.png",
+        "page": 29,
+        "w": 1316,
+        "h": 354,
+        "text_excerpt": "29"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p031_1.jpeg",
+        "page": 31,
+        "w": 1376,
+        "h": 1047,
+        "text_excerpt": "31"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p032_1.png",
+        "page": 32,
+        "w": 1332,
+        "h": 308,
+        "text_excerpt": "32"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p033_1.jpeg",
+        "page": 33,
+        "w": 1228,
+        "h": 1368,
+        "text_excerpt": "33"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p035_1.png",
+        "page": 35,
+        "w": 1346,
+        "h": 1012,
+        "text_excerpt": "35"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p038_1.jpeg",
+        "page": 38,
+        "w": 1157,
+        "h": 1047,
+        "text_excerpt": "38"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p039_1.jpeg",
+        "page": 39,
+        "w": 1320,
+        "h": 1136,
+        "text_excerpt": "39"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p040_1.png",
+        "page": 40,
+        "w": 1346,
+        "h": 348,
+        "text_excerpt": "Articulación Deslizante 40"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p041_1.jpeg",
+        "page": 41,
+        "w": 1400,
+        "h": 1027,
+        "text_excerpt": "41"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p042_1.png",
+        "page": 42,
+        "w": 1280,
+        "h": 248,
+        "text_excerpt": "Articulación en Bisagra 42"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p043_1.jpeg",
+        "page": 43,
+        "w": 1185,
+        "h": 1048,
+        "text_excerpt": "43"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p044_1.jpeg",
+        "page": 44,
+        "w": 1344,
+        "h": 1020,
+        "text_excerpt": "44"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p045_1.png",
+        "page": 45,
+        "w": 1304,
+        "h": 296,
+        "text_excerpt": "Articulación en Pivote 45"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p046_1.jpeg",
+        "page": 46,
+        "w": 1250,
+        "h": 1048,
+        "text_excerpt": "46"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p047_1.png",
+        "page": 47,
+        "w": 1308,
+        "h": 480,
+        "text_excerpt": "Articulación Elipsoidal (Condiloidea) 47"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p048_1.jpeg",
+        "page": 48,
+        "w": 1400,
+        "h": 1008,
+        "text_excerpt": "48"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p049_1.jpeg",
+        "page": 49,
+        "w": 1336,
+        "h": 1118,
+        "text_excerpt": "49"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p050_1.png",
+        "page": 50,
+        "w": 1338,
+        "h": 422,
+        "text_excerpt": "Articulación en Silla de montar 50"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p051_1.jpeg",
+        "page": 51,
+        "w": 1400,
+        "h": 950,
+        "text_excerpt": "51"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p052_1.jpeg",
+        "page": 52,
+        "w": 1250,
+        "h": 750,
+        "text_excerpt": "52"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p053_1.jpeg",
+        "page": 53,
+        "w": 1322,
+        "h": 1156,
+        "text_excerpt": "53"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p054_1.png",
+        "page": 54,
+        "w": 1354,
+        "h": 624,
+        "text_excerpt": "Articulación esférica 54"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p055_1.jpeg",
+        "page": 55,
+        "w": 1256,
+        "h": 1048,
+        "text_excerpt": "55"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p056_1.jpeg",
+        "page": 56,
+        "w": 1370,
+        "h": 1130,
+        "text_excerpt": "56"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p057_1.jpeg",
+        "page": 57,
+        "w": 1056,
+        "h": 1152,
+        "text_excerpt": "57"
+      },
+      {
+        "src": "images/clase_2_articulaciones/p058_1.png",
+        "page": 58,
+        "w": 1306,
+        "h": 1378,
+        "text_excerpt": "58"
+      }
+    ]
+  },
+  "Clase 3 (Huesos).pdf": {
+    "slug": "clase_3_huesos",
+    "images": [
+      {
+        "src": "images/clase_3_huesos/p002_0.jpeg",
+        "page": 2,
+        "w": 435,
+        "h": 899,
+        "text_excerpt": "FUNCIONES DEL TEJIDO ÓSEO ✓1. Brinda sostén a los tejidos blandos y puntos de inserción a los músculos esqueléticos. ✓2. Protege los órganos internos. ✓3. Participa en el movimiento de los músculos esqueléticos. ✓4. Almacena y libera minerales. ✓5. Contiene la médula ósea roja, que produce células s"
+      },
+      {
+        "src": "images/clase_3_huesos/p003_0.jpeg",
+        "page": 3,
+        "w": 514,
+        "h": 354,
+        "text_excerpt": "El sistema esquelético • El esqueleto axial está compuesto por los huesos de la cabeza (cráneo), el cuello (hueso hioides y vértebras cervicales) y el tronco (costillas, esternón, vértebras y sacro). • El esqueleto apendicular se compone de los huesos de los miembros, incluídos los que constituyen l"
+      },
+      {
+        "src": "images/clase_3_huesos/p004_0.jpeg",
+        "page": 4,
+        "w": 1210,
+        "h": 885,
+        "text_excerpt": "El esqueleto •Se compone de: cartílagos y huesos. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 4"
+      },
+      {
+        "src": "images/clase_3_huesos/p005_0.jpeg",
+        "page": 5,
+        "w": 261,
+        "h": 193,
+        "text_excerpt": "Definición de Cartílago •Tejido conectivo semirrígido que forma las partes del esqueleto donde se requiere más flexibilidad. •Por ejemplo: Sección anatómica donde los cartílagos costales unen las costillas al esternón. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 5"
+      },
+      {
+        "src": "images/clase_3_huesos/p007_0.jpeg",
+        "page": 7,
+        "w": 256,
+        "h": 167,
+        "text_excerpt": "IMPORTANTE •Los vasos sanguíneos no penetran en el cartílago (avascular). • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 7"
+      },
+      {
+        "src": "images/clase_3_huesos/p008_0.png",
+        "page": 8,
+        "w": 500,
+        "h": 308,
+        "text_excerpt": "IMPORTANTE La proporción de cartílago y hueso en el esqueleto cambia; cuanto más joven, más cantidad de cartílago posee. Los huesos del recién nacido son blandos y flexibles porque están compuestos principalmente por cartílago. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edi"
+      },
+      {
+        "src": "images/clase_3_huesos/p009_0.jpeg",
+        "page": 9,
+        "w": 220,
+        "h": 330,
+        "text_excerpt": "Hueso • Tipo de tejido conectivo duro, altamente especializado, que compone la mayor parte del esqueleto. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 9"
+      },
+      {
+        "src": "images/clase_3_huesos/p010_0.jpeg",
+        "page": 10,
+        "w": 600,
+        "h": 405,
+        "text_excerpt": "Pericondrio •Tejido conectivo fibroso en torno al cartílago. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 10"
+      },
+      {
+        "src": "images/clase_3_huesos/p011_0.jpeg",
+        "page": 11,
+        "w": 418,
+        "h": 568,
+        "text_excerpt": "Tejido óseo compacto • Componente más sólido del tejido óseo. • Se encuentra por debajo de periostio de todos los huesos. • Se organizan en unidades conocidas como osteonas. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 11"
+      },
+      {
+        "src": "images/clase_3_huesos/p012_0.jpeg",
+        "page": 12,
+        "w": 380,
+        "h": 184,
+        "text_excerpt": "Hueso esponjoso • No tiene osteonas. • Láminas dispuestas en una red irregular de columnas delgadas llamadas trabéculas. • Los espacios en las trabéculas pueden llenarse de médula ósea roja. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 12"
+      },
+      {
+        "src": "images/clase_3_huesos/p013_0.jpeg",
+        "page": 13,
+        "w": 1399,
+        "h": 894,
+        "text_excerpt": "13"
+      },
+      {
+        "src": "images/clase_3_huesos/p014_0.jpeg",
+        "page": 14,
+        "w": 1400,
+        "h": 1009,
+        "text_excerpt": "14"
+      },
+      {
+        "src": "images/clase_3_huesos/p015_0.jpeg",
+        "page": 15,
+        "w": 571,
+        "h": 557,
+        "text_excerpt": "ANATOMÍA DEL HUESO 15"
+      },
+      {
+        "src": "images/clase_3_huesos/p016_0.jpeg",
+        "page": 16,
+        "w": 1009,
+        "h": 1048,
+        "text_excerpt": "16"
+      },
+      {
+        "src": "images/clase_3_huesos/p017_0.jpeg",
+        "page": 17,
+        "w": 2560,
+        "h": 1600,
+        "text_excerpt": "17"
+      },
+      {
+        "src": "images/clase_3_huesos/p018_0.jpeg",
+        "page": 18,
+        "w": 1163,
+        "h": 1047,
+        "text_excerpt": "TIPOS DE HUESO SEGÚN LA FORMA 18"
+      },
+      {
+        "src": "images/clase_3_huesos/p022_0.jpeg",
+        "page": 22,
+        "w": 799,
+        "h": 980,
+        "text_excerpt": "22"
+      },
+      {
+        "src": "images/clase_3_huesos/p023_0.jpeg",
+        "page": 23,
+        "w": 300,
+        "h": 405,
+        "text_excerpt": "IMPORTANTE • En un hueso en crecimiento, cada metáfisis incluye la placa epifisiaria o cartílago de crecimiento. • Cuando el hueso deja de crecer (entre los 18 y 21 años) la placa espifisiaria se reemplaza por la línea epifisiaria. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13"
+      },
+      {
+        "src": "images/clase_3_huesos/p025_0.jpeg",
+        "page": 25,
+        "w": 565,
+        "h": 773,
+        "text_excerpt": "Periostio •Periostio: Es una vaina dura de tejido conectivo denso e irregular que envuelve la superficie ósea en los lugares que no están cubiertos por cartílago. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 25"
+      },
+      {
+        "src": "images/clase_3_huesos/p026_0.jpeg",
+        "page": 26,
+        "w": 500,
+        "h": 444,
+        "text_excerpt": "Periostio 26"
+      },
+      {
+        "src": "images/clase_3_huesos/p027_0.jpeg",
+        "page": 27,
+        "w": 459,
+        "h": 895,
+        "text_excerpt": "Cavidad Medular •Cavidad Medular: Es el espacio dentro de la diáfisis que en los adultos contiene la médula ósea roja. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 27"
+      },
+      {
+        "src": "images/clase_3_huesos/p028_0.jpeg",
+        "page": 28,
+        "w": 1324,
+        "h": 750,
+        "text_excerpt": "Endostio •Endostio: Fina membrana que limita la cavidad medular. Contiene una solo capa de células formadora de hueso y una pequeña cantidad de tejido conectivo. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 28"
+      },
+      {
+        "src": "images/clase_3_huesos/p028_1.jpeg",
+        "page": 28,
+        "w": 300,
+        "h": 223,
+        "text_excerpt": "Endostio •Endostio: Fina membrana que limita la cavidad medular. Contiene una solo capa de células formadora de hueso y una pequeña cantidad de tejido conectivo. • (Robinson Rodríguez, 6ta edición. 2024). • (Tortora, Derrickon, 13 edición). 28"
+      },
+      {
+        "src": "images/clase_3_huesos/p029_0.jpeg",
+        "page": 29,
+        "w": 1700,
+        "h": 446,
+        "text_excerpt": "HISTOLOGÍA DEL TEJIDO ÓSEO CÉLULA OSTEOBLASTO OSTEOCITO OSTEOCLASTO OSTEOGÉNICA FORME MATRIZ OSTEOIDE MANTIENE EL TEJIDO ÓSEO. SE ENCARGA DE LA RESORCION Y LA DESTRUCCION DE LA MATRIZ OSTEOIDE. 29"
+      },
+      {
+        "src": "images/clase_3_huesos/p029_1.jpeg",
+        "page": 29,
+        "w": 223,
+        "h": 274,
+        "text_excerpt": "HISTOLOGÍA DEL TEJIDO ÓSEO CÉLULA OSTEOBLASTO OSTEOCITO OSTEOCLASTO OSTEOGÉNICA FORME MATRIZ OSTEOIDE MANTIENE EL TEJIDO ÓSEO. SE ENCARGA DE LA RESORCION Y LA DESTRUCCION DE LA MATRIZ OSTEOIDE. 29"
+      },
+      {
+        "src": "images/clase_3_huesos/p029_2.jpeg",
+        "page": 29,
+        "w": 223,
+        "h": 298,
+        "text_excerpt": "HISTOLOGÍA DEL TEJIDO ÓSEO CÉLULA OSTEOBLASTO OSTEOCITO OSTEOCLASTO OSTEOGÉNICA FORME MATRIZ OSTEOIDE MANTIENE EL TEJIDO ÓSEO. SE ENCARGA DE LA RESORCION Y LA DESTRUCCION DE LA MATRIZ OSTEOIDE. 29"
+      },
+      {
+        "src": "images/clase_3_huesos/p029_3.jpeg",
+        "page": 29,
+        "w": 391,
+        "h": 227,
+        "text_excerpt": "HISTOLOGÍA DEL TEJIDO ÓSEO CÉLULA OSTEOBLASTO OSTEOCITO OSTEOCLASTO OSTEOGÉNICA FORME MATRIZ OSTEOIDE MANTIENE EL TEJIDO ÓSEO. SE ENCARGA DE LA RESORCION Y LA DESTRUCCION DE LA MATRIZ OSTEOIDE. 29"
+      },
+      {
+        "src": "images/clase_3_huesos/p030_0.jpeg",
+        "page": 30,
+        "w": 2560,
+        "h": 1600,
+        "text_excerpt": "30"
+      },
+      {
+        "src": "images/clase_3_huesos/p031_0.jpeg",
+        "page": 31,
+        "w": 928,
+        "h": 1048,
+        "text_excerpt": "31"
+      },
+      {
+        "src": "images/clase_3_huesos/p032_0.jpeg",
+        "page": 32,
+        "w": 1399,
+        "h": 979,
+        "text_excerpt": "32"
+      },
+      {
+        "src": "images/clase_3_huesos/p033_0.jpeg",
+        "page": 33,
+        "w": 1399,
+        "h": 995,
+        "text_excerpt": "33"
+      },
+      {
+        "src": "images/clase_3_huesos/p034_0.jpeg",
+        "page": 34,
+        "w": 1399,
+        "h": 1027,
+        "text_excerpt": "34"
+      },
+      {
+        "src": "images/clase_3_huesos/p035_0.jpeg",
+        "page": 35,
+        "w": 1363,
+        "h": 1047,
+        "text_excerpt": "35"
+      },
+      {
+        "src": "images/clase_3_huesos/p036_0.jpeg",
+        "page": 36,
+        "w": 1355,
+        "h": 1047,
+        "text_excerpt": "36"
+      },
+      {
+        "src": "images/clase_3_huesos/p037_0.jpeg",
+        "page": 37,
+        "w": 1399,
+        "h": 941,
+        "text_excerpt": "37"
+      },
+      {
+        "src": "images/clase_3_huesos/p038_0.jpeg",
+        "page": 38,
+        "w": 1399,
+        "h": 975,
+        "text_excerpt": "38"
+      },
+      {
+        "src": "images/clase_3_huesos/p039_0.jpeg",
+        "page": 39,
+        "w": 1399,
+        "h": 923,
+        "text_excerpt": "39"
+      },
+      {
+        "src": "images/clase_3_huesos/p040_0.jpeg",
+        "page": 40,
+        "w": 908,
+        "h": 1047,
+        "text_excerpt": "40"
+      },
+      {
+        "src": "images/clase_3_huesos/p041_0.jpeg",
+        "page": 41,
+        "w": 750,
+        "h": 1047,
+        "text_excerpt": "41"
+      },
+      {
+        "src": "images/clase_3_huesos/p042_0.jpeg",
+        "page": 42,
+        "w": 937,
+        "h": 1047,
+        "text_excerpt": "42"
+      },
+      {
+        "src": "images/clase_3_huesos/p043_0.jpeg",
+        "page": 43,
+        "w": 1399,
+        "h": 998,
+        "text_excerpt": "43"
+      },
+      {
+        "src": "images/clase_3_huesos/p044_0.jpeg",
+        "page": 44,
+        "w": 1399,
+        "h": 993,
+        "text_excerpt": "44"
+      },
+      {
+        "src": "images/clase_3_huesos/p045_0.jpeg",
+        "page": 45,
+        "w": 777,
+        "h": 1047,
+        "text_excerpt": "45"
+      },
+      {
+        "src": "images/clase_3_huesos/p046_0.jpeg",
+        "page": 46,
+        "w": 1059,
+        "h": 1047,
+        "text_excerpt": "46"
+      },
+      {
+        "src": "images/clase_3_huesos/p047_0.jpeg",
+        "page": 47,
+        "w": 1399,
+        "h": 561,
+        "text_excerpt": "47"
+      },
+      {
+        "src": "images/clase_3_huesos/p048_0.jpeg",
+        "page": 48,
+        "w": 1399,
+        "h": 828,
+        "text_excerpt": "48"
+      },
+      {
+        "src": "images/clase_3_huesos/p049_0.jpeg",
+        "page": 49,
+        "w": 975,
+        "h": 1047,
+        "text_excerpt": "49"
+      },
+      {
+        "src": "images/clase_3_huesos/p050_0.jpeg",
+        "page": 50,
+        "w": 1129,
+        "h": 1047,
+        "text_excerpt": "50"
+      },
+      {
+        "src": "images/clase_3_huesos/p051_0.jpeg",
+        "page": 51,
+        "w": 1308,
+        "h": 1048,
+        "text_excerpt": "51"
+      },
+      {
+        "src": "images/clase_3_huesos/p052_0.jpeg",
+        "page": 52,
+        "w": 1400,
+        "h": 889,
+        "text_excerpt": "52"
+      },
+      {
+        "src": "images/clase_3_huesos/p053_0.jpeg",
+        "page": 53,
+        "w": 1400,
+        "h": 688,
+        "text_excerpt": "53"
+      },
+      {
+        "src": "images/clase_3_huesos/p054_0.jpeg",
+        "page": 54,
+        "w": 1400,
+        "h": 1002,
+        "text_excerpt": "54"
+      },
+      {
+        "src": "images/clase_3_huesos/p055_0.jpeg",
+        "page": 55,
+        "w": 1400,
+        "h": 915,
+        "text_excerpt": "55"
+      },
+      {
+        "src": "images/clase_3_huesos/p056_0.jpeg",
+        "page": 56,
+        "w": 551,
+        "h": 1048,
+        "text_excerpt": "56"
+      },
+      {
+        "src": "images/clase_3_huesos/p057_0.jpeg",
+        "page": 57,
+        "w": 1400,
+        "h": 1003,
+        "text_excerpt": "57"
+      },
+      {
+        "src": "images/clase_3_huesos/p058_0.jpeg",
+        "page": 58,
+        "w": 1110,
+        "h": 1048,
+        "text_excerpt": "58"
+      },
+      {
+        "src": "images/clase_3_huesos/p059_0.jpeg",
+        "page": 59,
+        "w": 1400,
+        "h": 646,
+        "text_excerpt": "59"
+      },
+      {
+        "src": "images/clase_3_huesos/p060_0.jpeg",
+        "page": 60,
+        "w": 1400,
+        "h": 650,
+        "text_excerpt": "60"
+      },
+      {
+        "src": "images/clase_3_huesos/p061_0.jpeg",
+        "page": 61,
+        "w": 1119,
+        "h": 1048,
+        "text_excerpt": "61"
+      },
+      {
+        "src": "images/clase_3_huesos/p062_0.jpeg",
+        "page": 62,
+        "w": 1205,
+        "h": 1048,
+        "text_excerpt": "62"
+      },
+      {
+        "src": "images/clase_3_huesos/p063_0.jpeg",
+        "page": 63,
+        "w": 1400,
+        "h": 950,
+        "text_excerpt": "63"
+      },
+      {
+        "src": "images/clase_3_huesos/p064_0.jpeg",
+        "page": 64,
+        "w": 1050,
+        "h": 1048,
+        "text_excerpt": "64"
+      },
+      {
+        "src": "images/clase_3_huesos/p065_0.jpeg",
+        "page": 65,
+        "w": 1400,
+        "h": 750,
+        "text_excerpt": "65"
+      },
+      {
+        "src": "images/clase_3_huesos/p066_0.jpeg",
+        "page": 66,
+        "w": 1267,
+        "h": 1048,
+        "text_excerpt": "66"
+      },
+      {
+        "src": "images/clase_3_huesos/p067_0.jpeg",
+        "page": 67,
+        "w": 1221,
+        "h": 1048,
+        "text_excerpt": "67"
+      },
+      {
+        "src": "images/clase_3_huesos/p068_0.jpeg",
+        "page": 68,
+        "w": 1237,
+        "h": 1048,
+        "text_excerpt": "68"
+      },
+      {
+        "src": "images/clase_3_huesos/p069_0.jpeg",
+        "page": 69,
+        "w": 1400,
+        "h": 789,
+        "text_excerpt": "69"
+      },
+      {
+        "src": "images/clase_3_huesos/p070_0.jpeg",
+        "page": 70,
+        "w": 1400,
+        "h": 901,
+        "text_excerpt": "70"
+      },
+      {
+        "src": "images/clase_3_huesos/p071_0.jpeg",
+        "page": 71,
+        "w": 1400,
+        "h": 555,
+        "text_excerpt": "71"
+      },
+      {
+        "src": "images/clase_3_huesos/p072_0.jpeg",
+        "page": 72,
+        "w": 1400,
+        "h": 546,
+        "text_excerpt": "72"
+      },
+      {
+        "src": "images/clase_3_huesos/p073_0.jpeg",
+        "page": 73,
+        "w": 630,
+        "h": 1048,
+        "text_excerpt": "73"
+      },
+      {
+        "src": "images/clase_3_huesos/p074_0.jpeg",
+        "page": 74,
+        "w": 1328,
+        "h": 1048,
+        "text_excerpt": "74"
+      },
+      {
+        "src": "images/clase_3_huesos/p075_0.jpeg",
+        "page": 75,
+        "w": 1400,
+        "h": 862,
+        "text_excerpt": "75"
+      },
+      {
+        "src": "images/clase_3_huesos/p076_0.jpeg",
+        "page": 76,
+        "w": 1379,
+        "h": 1048,
+        "text_excerpt": "76"
+      },
+      {
+        "src": "images/clase_3_huesos/p077_0.jpeg",
+        "page": 77,
+        "w": 1400,
+        "h": 1042,
+        "text_excerpt": "77"
+      },
+      {
+        "src": "images/clase_3_huesos/p078_0.jpeg",
+        "page": 78,
+        "w": 1400,
+        "h": 982,
+        "text_excerpt": "78"
+      },
+      {
+        "src": "images/clase_3_huesos/p079_0.jpeg",
+        "page": 79,
+        "w": 1075,
+        "h": 1048,
+        "text_excerpt": "79"
+      },
+      {
+        "src": "images/clase_3_huesos/p080_0.jpeg",
+        "page": 80,
+        "w": 1308,
+        "h": 1048,
+        "text_excerpt": "80"
+      }
+    ]
+  },
+  "Clase 3 (Músculos).pdf": {
+    "slug": "clase_3_musculos",
+    "images": [
+      {
+        "src": "images/clase_3_musculos/p005_1.jpeg",
+        "page": 5,
+        "w": 919,
+        "h": 996,
+        "text_excerpt": "5"
+      },
+      {
+        "src": "images/clase_3_musculos/p006_1.jpeg",
+        "page": 6,
+        "w": 2390,
+        "h": 1026,
+        "text_excerpt": "6"
+      },
+      {
+        "src": "images/clase_3_musculos/p007_1.jpeg",
+        "page": 7,
+        "w": 2390,
+        "h": 820,
+        "text_excerpt": "7"
+      },
+      {
+        "src": "images/clase_3_musculos/p008_1.jpeg",
+        "page": 8,
+        "w": 2386,
+        "h": 830,
+        "text_excerpt": "8"
+      },
+      {
+        "src": "images/clase_3_musculos/p011_1.jpeg",
+        "page": 11,
+        "w": 1400,
+        "h": 900,
+        "text_excerpt": "11"
+      },
+      {
+        "src": "images/clase_3_musculos/p012_1.jpeg",
+        "page": 12,
+        "w": 901,
+        "h": 427,
+        "text_excerpt": "12 Músculo esquelético • Cells are long cylinders with many peripheral nuclei. • Visible light and dark banding (looks striated). • Voluntary (conscious control)."
+      },
+      {
+        "src": "images/clase_3_musculos/p017_1.jpeg",
+        "page": 17,
+        "w": 1221,
+        "h": 1048,
+        "text_excerpt": "17"
+      },
+      {
+        "src": "images/clase_3_musculos/p019_1.jpeg",
+        "page": 19,
+        "w": 1400,
+        "h": 987,
+        "text_excerpt": "19"
+      },
+      {
+        "src": "images/clase_3_musculos/p025_1.jpeg",
+        "page": 25,
+        "w": 853,
+        "h": 423,
+        "text_excerpt": "25"
+      },
+      {
+        "src": "images/clase_3_musculos/p026_1.jpeg",
+        "page": 26,
+        "w": 740,
+        "h": 571,
+        "text_excerpt": "26"
+      },
+      {
+        "src": "images/clase_3_musculos/p027_1.jpeg",
+        "page": 27,
+        "w": 506,
+        "h": 538,
+        "text_excerpt": "27"
+      },
+      {
+        "src": "images/clase_3_musculos/p029_1.jpeg",
+        "page": 29,
+        "w": 1024,
+        "h": 772,
+        "text_excerpt": "29"
+      },
+      {
+        "src": "images/clase_3_musculos/p030_1.jpeg",
+        "page": 30,
+        "w": 1214,
+        "h": 1154,
+        "text_excerpt": "30"
+      },
+      {
+        "src": "images/clase_3_musculos/p034_1.jpeg",
+        "page": 34,
+        "w": 797,
+        "h": 1047,
+        "text_excerpt": "34"
+      },
+      {
+        "src": "images/clase_3_musculos/p035_1.jpeg",
+        "page": 35,
+        "w": 1475,
+        "h": 500,
+        "text_excerpt": "Disposición de los fascículos 35"
+      },
+      {
+        "src": "images/clase_3_musculos/p037_1.jpeg",
+        "page": 37,
+        "w": 1400,
+        "h": 601,
+        "text_excerpt": "37"
+      },
+      {
+        "src": "images/clase_3_musculos/p039_1.jpeg",
+        "page": 39,
+        "w": 1400,
+        "h": 688,
+        "text_excerpt": "39"
+      },
+      {
+        "src": "images/clase_3_musculos/p041_1.jpeg",
+        "page": 41,
+        "w": 988,
+        "h": 1048,
+        "text_excerpt": "41"
+      },
+      {
+        "src": "images/clase_3_musculos/p042_1.jpeg",
+        "page": 42,
+        "w": 914,
+        "h": 1048,
+        "text_excerpt": "42"
+      },
+      {
+        "src": "images/clase_3_musculos/p044_1.jpeg",
+        "page": 44,
+        "w": 1400,
+        "h": 670,
+        "text_excerpt": "44"
+      },
+      {
+        "src": "images/clase_3_musculos/p045_1.jpeg",
+        "page": 45,
+        "w": 1400,
+        "h": 688,
+        "text_excerpt": "45"
+      },
+      {
+        "src": "images/clase_3_musculos/p046_1.jpeg",
+        "page": 46,
+        "w": 1197,
+        "h": 1048,
+        "text_excerpt": "46"
+      },
+      {
+        "src": "images/clase_3_musculos/p049_1.jpeg",
+        "page": 49,
+        "w": 640,
+        "h": 657,
+        "text_excerpt": "49"
+      },
+      {
+        "src": "images/clase_3_musculos/p050_1.jpeg",
+        "page": 50,
+        "w": 897,
+        "h": 1048,
+        "text_excerpt": "50"
+      },
+      {
+        "src": "images/clase_3_musculos/p051_1.jpeg",
+        "page": 51,
+        "w": 898,
+        "h": 1048,
+        "text_excerpt": "51"
+      },
+      {
+        "src": "images/clase_3_musculos/p052_1.jpeg",
+        "page": 52,
+        "w": 817,
+        "h": 1192,
+        "text_excerpt": "52"
+      }
+    ]
+  },
+  "Clase 4 (Sistema Cardiovascular).pdf": {
+    "slug": "clase_4_sistema_cardiovascular",
+    "images": [
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p005_0.jpeg",
+        "page": 5,
+        "w": 1399,
+        "h": 989,
+        "text_excerpt": "5"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p006_0.jpeg",
+        "page": 6,
+        "w": 1400,
+        "h": 965,
+        "text_excerpt": "6"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p012_0.jpeg",
+        "page": 12,
+        "w": 480,
+        "h": 360,
+        "text_excerpt": "12"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p013_0.jpeg",
+        "page": 13,
+        "w": 1400,
+        "h": 927,
+        "text_excerpt": "13"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p018_1.jpeg",
+        "page": 18,
+        "w": 1336,
+        "h": 1048,
+        "text_excerpt": "18"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p022_1.jpeg",
+        "page": 22,
+        "w": 1375,
+        "h": 1048,
+        "text_excerpt": "22"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p026_1.jpeg",
+        "page": 26,
+        "w": 1400,
+        "h": 959,
+        "text_excerpt": "26"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p031_1.jpeg",
+        "page": 31,
+        "w": 1400,
+        "h": 941,
+        "text_excerpt": "31"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p032_1.jpeg",
+        "page": 32,
+        "w": 1400,
+        "h": 970,
+        "text_excerpt": "32"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p034_0.jpeg",
+        "page": 34,
+        "w": 1400,
+        "h": 941,
+        "text_excerpt": "34"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p036_0.jpeg",
+        "page": 36,
+        "w": 1400,
+        "h": 881,
+        "text_excerpt": "36"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p044_0.jpeg",
+        "page": 44,
+        "w": 1400,
+        "h": 994,
+        "text_excerpt": "44"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p047_0.jpeg",
+        "page": 47,
+        "w": 1355,
+        "h": 1048,
+        "text_excerpt": "47"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p048_0.jpeg",
+        "page": 48,
+        "w": 1395,
+        "h": 1048,
+        "text_excerpt": "48"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p049_0.jpeg",
+        "page": 49,
+        "w": 1340,
+        "h": 1024,
+        "text_excerpt": "49"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p050_0.jpeg",
+        "page": 50,
+        "w": 1316,
+        "h": 1048,
+        "text_excerpt": "50"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p052_0.jpeg",
+        "page": 52,
+        "w": 1400,
+        "h": 921,
+        "text_excerpt": "52"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p054_0.jpeg",
+        "page": 54,
+        "w": 909,
+        "h": 1048,
+        "text_excerpt": "54"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p064_0.jpeg",
+        "page": 64,
+        "w": 883,
+        "h": 1048,
+        "text_excerpt": "64"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p070_0.jpeg",
+        "page": 70,
+        "w": 1400,
+        "h": 663,
+        "text_excerpt": "70"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p071_0.jpeg",
+        "page": 71,
+        "w": 1400,
+        "h": 935,
+        "text_excerpt": "71"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p072_0.jpeg",
+        "page": 72,
+        "w": 500,
+        "h": 386,
+        "text_excerpt": "72"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p074_0.jpeg",
+        "page": 74,
+        "w": 1826,
+        "h": 1080,
+        "text_excerpt": "74"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p075_0.jpeg",
+        "page": 75,
+        "w": 1460,
+        "h": 1354,
+        "text_excerpt": "75"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p076_0.jpeg",
+        "page": 76,
+        "w": 1980,
+        "h": 1178,
+        "text_excerpt": "76"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p078_0.jpeg",
+        "page": 78,
+        "w": 1400,
+        "h": 968,
+        "text_excerpt": "78"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p079_0.jpeg",
+        "page": 79,
+        "w": 1400,
+        "h": 757,
+        "text_excerpt": "79"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p084_0.jpeg",
+        "page": 84,
+        "w": 469,
+        "h": 306,
+        "text_excerpt": "84"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p085_0.jpeg",
+        "page": 85,
+        "w": 562,
+        "h": 707,
+        "text_excerpt": "85"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p086_0.jpeg",
+        "page": 86,
+        "w": 961,
+        "h": 958,
+        "text_excerpt": "86"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p087_0.jpeg",
+        "page": 87,
+        "w": 1020,
+        "h": 576,
+        "text_excerpt": "87"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p088_0.jpeg",
+        "page": 88,
+        "w": 1243,
+        "h": 577,
+        "text_excerpt": "88"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p089_0.jpeg",
+        "page": 89,
+        "w": 953,
+        "h": 939,
+        "text_excerpt": "89"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p090_0.jpeg",
+        "page": 90,
+        "w": 600,
+        "h": 216,
+        "text_excerpt": "90"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p091_0.jpeg",
+        "page": 91,
+        "w": 987,
+        "h": 992,
+        "text_excerpt": "91"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p092_0.jpeg",
+        "page": 92,
+        "w": 1323,
+        "h": 1048,
+        "text_excerpt": "92"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p093_0.jpeg",
+        "page": 93,
+        "w": 1400,
+        "h": 1015,
+        "text_excerpt": "93"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p094_0.jpeg",
+        "page": 94,
+        "w": 930,
+        "h": 979,
+        "text_excerpt": "94"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p095_0.jpeg",
+        "page": 95,
+        "w": 1399,
+        "h": 723,
+        "text_excerpt": "95"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p096_0.jpeg",
+        "page": 96,
+        "w": 968,
+        "h": 456,
+        "text_excerpt": "96"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p097_0.jpeg",
+        "page": 97,
+        "w": 1305,
+        "h": 1048,
+        "text_excerpt": "97"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p098_0.jpeg",
+        "page": 98,
+        "w": 967,
+        "h": 557,
+        "text_excerpt": "98"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p099_0.jpeg",
+        "page": 99,
+        "w": 1400,
+        "h": 984,
+        "text_excerpt": "99"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p100_0.jpeg",
+        "page": 100,
+        "w": 1400,
+        "h": 1025,
+        "text_excerpt": "100"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p101_0.jpeg",
+        "page": 101,
+        "w": 1340,
+        "h": 1048,
+        "text_excerpt": "101"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p102_0.jpeg",
+        "page": 102,
+        "w": 901,
+        "h": 995,
+        "text_excerpt": "102"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p103_0.jpeg",
+        "page": 103,
+        "w": 980,
+        "h": 1048,
+        "text_excerpt": "103"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p105_0.jpeg",
+        "page": 105,
+        "w": 944,
+        "h": 955,
+        "text_excerpt": "105"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p106_0.jpeg",
+        "page": 106,
+        "w": 1400,
+        "h": 972,
+        "text_excerpt": "106"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p107_0.jpeg",
+        "page": 107,
+        "w": 1345,
+        "h": 1048,
+        "text_excerpt": "107"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p108_0.jpeg",
+        "page": 108,
+        "w": 1029,
+        "h": 1048,
+        "text_excerpt": "108"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p109_0.jpeg",
+        "page": 109,
+        "w": 1400,
+        "h": 945,
+        "text_excerpt": "109"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p110_0.jpeg",
+        "page": 110,
+        "w": 800,
+        "h": 1048,
+        "text_excerpt": "110"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p111_0.jpeg",
+        "page": 111,
+        "w": 779,
+        "h": 1048,
+        "text_excerpt": "111"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p112_0.jpeg",
+        "page": 112,
+        "w": 1400,
+        "h": 912,
+        "text_excerpt": "112"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p113_0.jpeg",
+        "page": 113,
+        "w": 1000,
+        "h": 1048,
+        "text_excerpt": "113"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p114_0.jpeg",
+        "page": 114,
+        "w": 1186,
+        "h": 1048,
+        "text_excerpt": "114"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p115_0.jpeg",
+        "page": 115,
+        "w": 889,
+        "h": 1048,
+        "text_excerpt": "115"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p116_0.jpeg",
+        "page": 116,
+        "w": 1020,
+        "h": 990,
+        "text_excerpt": "116"
+      },
+      {
+        "src": "images/clase_4_sistema_cardiovascular/p118_0.jpeg",
+        "page": 118,
+        "w": 1104,
+        "h": 1048,
+        "text_excerpt": "118"
+      }
+    ]
+  }
+}

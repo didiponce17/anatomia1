@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anatomía Humana — Guía Interactiva</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Anatomía Humana</h1>
+    <p class="subtitle">Guía Interactiva de Estudio — Terapia Ocupacional</p>
+    <nav id="mode-nav">
+      <button id="btn-estudio" class="mode-btn active" onclick="setMode('estudio')">📘 Estudio</button>
+      <button id="btn-repaso" class="mode-btn" onclick="setMode('repaso')">⚡ Repaso Rápido</button>
+      <button id="btn-galeria" class="mode-btn" onclick="setMode('galeria')">🖼️ Galería</button>
+    </nav>
+  </header>
+
+  <main>
+    <aside id="sidebar">
+      <h2>Temas</h2>
+      <ul id="tema-list"></ul>
+    </aside>
+
+    <section id="content">
+      <div id="welcome">
+        <h2>Bienvenido</h2>
+        <p>Selecciona un tema del menú lateral para comenzar.</p>
+        <ul class="welcome-list">
+          <li><strong>📘 Estudio:</strong> teoría + preguntas con retroalimentación. Cada sesión muestra <em>preguntas aleatorias</em> del banco. Al terminar, pulsa <strong>🔄 Nuevas preguntas</strong> para limpiar y obtener otras.</li>
+          <li><strong>⚡ Repaso Rápido:</strong> solo preguntas, una a una.</li>
+          <li><strong>🖼️ Galería:</strong> todas las imágenes de las diapositivas para identificar músculos, huesos, articulaciones, tejidos, etc.</li>
+        </ul>
+      </div>
+
+      <!-- Modo Estudio -->
+      <div id="estudio-view" class="hidden">
+        <div class="tema-header-row">
+          <h2 id="tema-titulo"></h2>
+          <div class="tema-actions">
+            <label class="check-todas"><input type="checkbox" id="mostrar-todas" onchange="toggleMostrarTodas()"> Mostrar todas</label>
+            <button class="btn-primary" onclick="reiniciarPreguntas()">🔄 Nuevas preguntas</button>
+          </div>
+        </div>
+        <div id="tema-resumen" class="resumen-box"></div>
+        <h3>Preguntas</h3>
+        <div id="preguntas-container"></div>
+      </div>
+
+      <!-- Modo Repaso -->
+      <div id="repaso-view" class="hidden">
+        <div id="repaso-header">
+          <div class="tema-header-row">
+            <h2 id="repaso-titulo"></h2>
+            <button class="btn-secondary" onclick="repasoMezclar()">🔀 Mezclar de nuevo</button>
+          </div>
+          <div id="repaso-progress"></div>
+        </div>
+        <div id="repaso-pregunta-container"></div>
+        <div id="repaso-nav">
+          <button id="btn-prev" onclick="repasoPrev()">← Anterior</button>
+          <span id="repaso-counter"></span>
+          <button id="btn-next" onclick="repasoNext()">Siguiente →</button>
+        </div>
+      </div>
+
+      <!-- Modo Galería -->
+      <div id="galeria-view" class="hidden">
+        <h2 id="galeria-titulo"></h2>
+        <p id="galeria-desc"></p>
+        <div id="galeria-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Lightbox -->
+  <div id="lightbox" onclick="closeLightbox()">
+    <div class="lb-inner" onclick="event.stopPropagation()">
+      <button class="lb-close" onclick="closeLightbox()">✕</button>
+      <img class="lb-img" alt="Imagen ampliada">
+      <div class="lb-caption"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Fuentes: Robinson Rodríguez (5ta/6ta ed.), Tortora &amp; Derrickson (13 ed.) — Imágenes extraídas de los PDFs de clase.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

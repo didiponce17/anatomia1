@@ -31,9 +31,26 @@ function renderSidebar() {
     const li = document.createElement('li');
     li.textContent = tema.titulo;
     li.dataset.id = tema.id;
-    li.addEventListener('click', () => loadTema(tema.id));
+    li.addEventListener('click', () => {
+      loadTema(tema.id);
+      closeSidebar(); // auto-close drawer on mobile after picking a tema
+    });
     list.appendChild(li);
   });
+}
+
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  const overlay = document.getElementById('sidebar-overlay');
+  const isOpen = sidebar.classList.toggle('open');
+  overlay.classList.toggle('open', isOpen);
+  document.body.style.overflow = isOpen ? 'hidden' : '';
+}
+
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('sidebar-overlay').classList.remove('open');
+  document.body.style.overflow = '';
 }
 
 // ---------- Mode switching ----------
